@@ -1,0 +1,48 @@
+.Button {
+    border-left-color: rgba(255, 255, 255, 255);
+    border-right-color: rgba(255, 255, 255, 255);
+    border-top-color: rgba(255, 255, 255, 255);
+    border-bottom-color: rgba(255, 255, 255, 255);
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-top-width: 4px;
+    border-bottom-width: 4px;
+    border-top-left-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-right-radius: 24px;
+    width: 33%;
+    font-size: 24px;
+    background-color: rgba(31, 31, 31, 255);
+    color: rgba(255, 255, 255, 255);
+    height: 100%;
+    justify-content: center;
+    -unity-text-align: middle-center;
+}
+
+.WhiteBorder {
+    border-left-color: rgba(255, 255, 255, 255);
+    border-right-color: rgba(255, 255, 255, 255);
+    border-top-color: rgba(255, 255, 255, 255);
+    border-bottom-color: rgba(255, 255, 255, 255);
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-top-width: 4px;
+    border-bottom-width: 4px;
+    border-top-left-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-right-radius: 24px;
+    width: 100%;
+    height: 100%;
+    color: rgba(255, 255, 255, 255);
+}
+
+.Cell {
+    font-size: 32px;
+    -unity-text-align: middle-left;
+    padding-left: 20px;
+    width: 33%;
+    height: 100%;
+    color: rgba(255, 255, 255, 255);
+}
