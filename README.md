@@ -1,13 +1,13 @@
 # Unity Developer Code Test
 
-====================================================================================
+====================================================================
 
 ## RUSLAN YEFIMOV's comment:
 Optimized calculations of algorithm not changing any logic and increaed FPS by 6 times.
 APK release build file can be found by this link:
 https://drive.google.com/file/d/10M3hYXwI4gldHWIhEfELhN1fmV_DSeai/view?usp=sharing
 
-====================================================================================
+====================================================================
 
 This repository is based on
 
